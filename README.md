@@ -31,7 +31,7 @@ To run this project, ensure you have the following:
 
 - **Python 3.x**
 - **Scrapy** library
-- **SQL Server** installed on your premises
+- **SQL Server** installed on-premises
 
 ## Environment Configuration
 You'll need to set up an environment file (`.env`) containing the following SQL Server credentials:
