@@ -1,7 +1,7 @@
 # E-commerce Data Scraper
 
-![Scrapy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Scrapy_logo.svg/1920px-Scrapy_logo.svg.png)
-![SQL Server Logo](https://upload.wikimedia.org/wikipedia/en/3/3d/SQL_Server_2019_logo.png)Pper
+![Scrapy Logo](scrapy-logo.png)
+![SQL Server Logo](sql-server-logo.png)
 
 ## Overview
 Welcome to the **E-commerce Data Scraper**! This project leverages **Scrapy** to extract valuable data from a test e-commerce website and store it in an on-premises SQL Server database. Whether you're looking to analyze product information or build your own dataset, this scraper is a powerful tool to get you started!
