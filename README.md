@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center;">
     <img src="images/scrapy-logo.png" alt="Scrapy Logo" style="max-width: 200px; height: auto; margin-right: 20px;"/>
-    <img src="images/sql-server-logo.svg" alt="SQL Server Logo" style="max-width: 200px; height: auto;"/>
+    <img src="images/sql-server-logo.png" alt="SQL Server Logo" style="max-width: 200px; height: auto;"/>
 </div>
 
 ## Overview
