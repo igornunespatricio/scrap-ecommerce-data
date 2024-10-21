@@ -31,6 +31,7 @@ To run this project, ensure you have the following:
 
 - **Python 3.x**
 - **Scrapy** library
+- **python-dotenv** library
 - **SQL Server** installed on-premises
 
 ## Environment Configuration
